@@ -1,7 +1,6 @@
 //Faça um Programa que peça o raio de um círculo, calcule e mostre sua área.;
 #include <stdio.h>
 #include <locale.h> 
-#include <conio.h>
 
 int main (){
 setlocale(LC_ALL,"portuguese");
@@ -14,5 +13,4 @@ setlocale(LC_ALL,"portuguese");
 
 printf("Área do circulo: %2.f m2",A);
 return(0);
-getch();
 }
