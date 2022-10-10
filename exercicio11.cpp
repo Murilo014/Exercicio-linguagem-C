@@ -28,8 +28,5 @@ setlocale(LC_ALL,"Portuguese");
         resultado = numreal * numreal * numreal;
 
         printf("\nResultado do terceiro numero elevado ao cubo: %.2f",resultado); 
-
-
-
 return(0);
 }
